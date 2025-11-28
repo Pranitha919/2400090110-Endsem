@@ -1,1 +1,2 @@
 Welcome to Student Portal
+Added Course Registration feature
