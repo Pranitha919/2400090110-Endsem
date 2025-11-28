@@ -1,3 +1,1 @@
-Welcome to Student Portal
-Added Course Registration feature
-Added Event Calendar feature
+Welcome to Student Portal with Course Registration and Event Calendar
